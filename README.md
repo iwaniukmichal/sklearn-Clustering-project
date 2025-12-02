@@ -20,7 +20,7 @@ The project is divided into three main parts, each in its own Jupyter Notebook:
 
 ## Clustering Models
 
-The following clustering algorithms were implemented and evaluated:
+The following clustering algorithms were evaluated:
 
 *   K-Means
 *   K-Medoids
